@@ -1,0 +1,1 @@
+Sammlung eigener kleinerer R Hilfsfunktionen für Auswertung und formatierten Output.
